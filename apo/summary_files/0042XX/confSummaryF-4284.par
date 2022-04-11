@@ -4,7 +4,7 @@
 #
 # Created by pydl.pydlutils.yanny.yanny
 #
-# 2022-03-28 11:05:32 UTC
+# 2022-04-11 22:22:50 UTC
 #
 configuration_id 4284
 robostrategy_run zeta-0
@@ -29,6 +29,7 @@ parent_configuration -999
 dither_radius -999.0
 cloned_from -999
 fvc_rms 0.01562
+fvc_image_path /data/fcam/59666/proc-fimg-fvc1n-0031.fits
 
 typedef enum {
     BOSS,
